@@ -223,6 +223,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
+* [forensic-webhistory](https://github.com/acquiredsecurity/forensic-webhistory) - Cross-platform browser artifact extractor for history, downloads, cookies, autofill, bookmarks, login metadata, keyword searches, and extensions.
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 * [IPASIS](https://ipasis.com/) - Real-time IP reputation and email validation API for investigating suspicious interactions. Returns an Interaction Trust Score (0-100) combining VPN/proxy/Tor detection with email risk assessment in a single API call.
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
